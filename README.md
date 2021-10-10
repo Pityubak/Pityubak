@@ -19,8 +19,15 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pityubak&theme=dark">
     </th>
   </tr>
+   <tr>   
+    <th width="100%">
+     <img src="https://activity-graph.herokuapp.com/graph?username=Pityubak&theme=react-dark&area=true&hide_border=true" width="100%" align="right">
+    </th>
+  </tr>
+  
+  
 </table>
-<img src="https://activity-graph.herokuapp.com/graph?username=Pityubak&theme=react-dark&area=true&hide_border=true" width="100%" align="right">
+
 <!---  - 👋 Hi, I’m @Pityubak
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
