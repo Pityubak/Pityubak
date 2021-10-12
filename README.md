@@ -6,22 +6,22 @@
 
   <tr>
     <th>
-      <img src="https://github-readme-stats.vercel.app/api?username=Pityubak&show_icons=true&theme=gotham" alt="github stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Pityubak&show_icons=true&theme=vue-dark" alt="github stats"/>
     </th>
     <th>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pityubak&theme=dark">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pityubak&theme=noctis-minimus">
     </th>
   </tr>
   </table>
   <table>
   <tr>   
     <th width="100%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pityubak&theme=dark">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pityubak&theme=ayu-mirage">
     </th>
   </tr>
    <tr>   
     <th width="100%">
-     <img src="https://activity-graph.herokuapp.com/graph?username=Pityubak&theme=react-dark&area=true&hide_border=true" width="100%" align="right">
+     <img src="https://activity-graph.herokuapp.com/graph?username=Pityubak&theme=github&area=true&hide_border=true" width="100%" align="right">
     </th>
   </tr>
   
