@@ -6,9 +6,6 @@
 
   <tr>
     <th>
-      <img src="https://github-readme-stats.vercel.app/api?username=Pityubak&show_icons=true&theme=vue-dark" alt="github stats"/>
-    </th>
-    <th>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pityubak&theme=noctis-minimus">
     </th>
   </tr>
