@@ -10,20 +10,6 @@
     </th>
   </tr>
   </table>
-  <table>
-  <tr>   
-    <th width="100%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pityubak&theme=ayu-mirage">
-    </th>
-  </tr>
-   <tr>   
-    <th width="100%">
-     <img src="https://activity-graph.herokuapp.com/graph?username=Pityubak&theme=github&area=true&hide_border=true" width="100%" align="right">
-    </th>
-  </tr>
-  
-  
-</table>
 
 <!---  - 👋 Hi, I’m @Pityubak
 - 👀 I’m interested in ...
